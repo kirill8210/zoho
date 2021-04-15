@@ -1,0 +1,65 @@
+
+@font-face {
+    font-family: "Exo2Regular";
+    src: url("../fonts/Exo2Regular/Exo2Regular.eot");
+    src: url("../fonts/Exo2Regular/Exo2Regular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2Regular/Exo2Regular.woff") format("woff"),
+    url("../fonts/Exo2Regular/Exo2Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Exo2Bold";
+    src: url("../fonts/Exo2Bold/Exo2Bold.eot");
+    src: url("../fonts/Exo2Bold/Exo2Bold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2Bold/Exo2Bold.woff") format("woff"),
+    url("../fonts/Exo2Bold/Exo2Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+@font-face {
+    font-family: "Exo2ExtraLight";
+    src: url("../fonts/Exo2ExtraLight/Exo2ExtraLight.eot");
+    src: url("../fonts/Exo2ExtraLight/Exo2ExtraLight.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2ExtraLight/Exo2ExtraLight.woff") format("woff"),
+    url("../fonts/Exo2ExtraLight/Exo2ExtraLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+@font-face {
+    font-family: "Exo2SemiBold";
+    src: url("../fonts/Exo2SemiBold/Exo2SemiBold.eot");
+    src: url("../fonts/Exo2SemiBold/Exo2SemiBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo2SemiBold/Exo2SemiBold.woff") format("woff"),
+    url("../fonts/Exo2SemiBold/Exo2SemiBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+
+
+
+@font-face {
+	font-family: Noah-Bold;
+	src: url('../fonts/Noah-Bold.eot');
+	src: url('../fonts/Noah-Bold.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Noah-Bold.woff2') format('woff2'),
+	url('../fonts/Noah-Bold.woff') format('woff'),
+	url('../fonts/Noah-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: Noah-Regular;
+	src: url('../fonts/Noah-Regular.eot');
+	src: url('../fonts/Noah-Regular.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/Noah-Regular.woff2') format('woff2'),
+	url('../fonts/Noah-Regular.woff') format('woff'),
+	url('../fonts/Noah-Regular.ttf') format('truetype');
+}
+
